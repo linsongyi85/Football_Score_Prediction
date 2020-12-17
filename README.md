@@ -1,5 +1,5 @@
 # Football_Score_Prediction
-1X2 prediction,Goals over/under,asian handicap
+Score prediction,1X2 prediction,Goals over/under prediction,asian handicap prediction
 #About Me and the Project
 Octopus AI football score prediction project, from the start to now are more than two years, the project is very strong vitality, and also achieve the initial purpose. The pyramid AI football score algorithm model developed by myself keeps the pace of iteration once a week, collecting datas from nearly 120,000 matches every year,with nearly 1,000 football leagues all around the world. We provide 1X2 , Goals under/over, asian handicap prediction result. We keep doing optimization jobs and upgrading this score prediction project,supporting more than 500,000 users all over the world, and verify the prediction result to test whether it can achieve a long-term stable profits. All these efforts make our project more reliability and resilience. To be the top football score prediction teams has been our final goal, to make users satisfied is our unremitting pursuit. Those who like football score preditions are welcome to chat with me via WeChat 13823281224 or Email: linsongyi85@163.com.
 
